@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com" version="1.1" viewBox="0 0 292.2 94.9">
+  <g id="Capa_1-2" data-name="Capa_1">
+    <path d="M245.4,94h4.4c23.7-2.4,42.3-22.3,42.3-46.6v-.2h.2c0-.1-.2-.1-.2-.1v-.2c0-24.3-18.5-44.2-42.3-46.6h-6.1l-52.5.2v94.4c.1,0,54.2-.4,54.2-.4v-.5h0Z" fill="#ffb743" stroke-width="0"/>
+    <polygon points="97.5 .9 191.1 .2 191.2 94.6 190.5 94.6 97.5 94.6 97.5 .9" fill="#08b1d2" stroke-width="0"/>
+    <circle cx="241.7" cy="47.5" r="38.3" fill="#fefefe" stroke-width="0"/>
+    <polygon points="97.5 0 0 0 0 0 0 94.6 97.5 94.9 97.5 94.9 97.5 0" fill="#4b0984" stroke-width="0"/>
+    <path d="M191.1.2l-93.6-.2v93.7C97.5,42,139.3.2,191.1.2Z" fill="#db5939" fill-rule="evenodd" stroke-width="0"/>
+    <g isolation="isolate">
+      <path d="M34.9,40.6v-4.3l25-10.5v4.6l-19.8,8.1,19.8,8.2v4.6l-25-10.7Z" fill="#333" stroke-width="0"/>
+    </g>
+    <g isolation="isolate">
+      <path d="M34.9,40.6v-4.3l25-10.5v4.6l-19.8,8.1,19.8,8.2v4.6l-25-10.7Z" fill="none" stroke="#fff" stroke-miterlimit="1.4" stroke-width="4.2"/>
+    </g>
+    <ellipse cx="240.2" cy="46.6" rx="41.8" ry="41.2" fill="#ffb743" stroke-width="0"/>
+  </g>
+</svg>
